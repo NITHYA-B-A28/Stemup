@@ -1,0 +1,29 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+
+
+
+img{
+    height: 350px;
+    width: 309px;
+    border-radius: 7px;
+    box-shadow: 0 0 10px rgba(149, 147, 147, 0.9);
+    border-style: solid;
+    border-color: rgb(234, 237, 237);
+
+}
+h1{
+    position: fixed;
+    background-color: rgba(143, 217, 230, 0.5);
+    height: 55px;
+    width: 1270px;
+    text-align: center;
+    padding-top: 7px;
+}
+img:hover{
+    transform: scale(1.3);
+}
